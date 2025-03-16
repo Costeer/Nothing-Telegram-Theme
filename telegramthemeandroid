@@ -1,8 +1,8 @@
 name: Nothing Good
 shortname: ah10bjzVvLxTjlpB
 wallpaperFileOffset: #FFFFFF
-dialogBackground: #06080A
-dialogBackgroundGray: #06080A
+dialogBackground: #000000
+dialogBackgroundGray: #000000
 dialogTextBlack: #F0F2F2
 dialogTextLink: #D71921
 dialogLinkSelection: #D71921
@@ -35,7 +35,7 @@ dialogTopBackground: #1B1D1F
 dialogCameraIcon: #F0F2F2
 dialog_inlineProgressBackground: #1B1D1F
 dialog_inlineProgress: #F0F2F2
-dialogSearchBackground: #06080A
+dialogSearchBackground: #000000
 dialogSearchHint: #9EA0A1
 dialogSearchIcon: #F0F2F2
 dialogSearchText: #F0F2F2
@@ -43,8 +43,8 @@ dialogFloatingButton: #F0F2F2
 dialogFloatingButtonPressed: #F0F2F2
 dialogFloatingIcon: #000000
 dialogShadowLine: #06080A00
-windowBackgroundWhite: #06080A
-windowBackgroundUnchecked: #06080A
+windowBackgroundWhite: #000000
+windowBackgroundUnchecked: #000000
 windowBackgroundChecked: #D71921
 windowBackgroundCheckText: #F0F2F2
 progressCircle: #F0F2F2
@@ -91,7 +91,7 @@ checkboxSquareBackground: #D71921
 checkboxSquareCheck: #F0F2F2
 checkboxSquareUnchecked: #F0F2F2
 checkboxSquareDisabled: #9EA0A1
-windowBackgroundGray: #06080A
+windowBackgroundGray: #000000
 windowBackgroundGrayShadow: #06080A00
 emptyListPlaceholder: #F0F2F299
 divider: #06080A00
@@ -145,8 +145,8 @@ avatar_nameInMessageCyan: #F0F2F2
 avatar_nameInMessageBlue: #F0F2F2
 avatar_nameInMessagePink: #F0F2F2
 actionBarDefault: #000000
-actionBarDefaultSelector: #06080A00
-actionBarWhiteSelector: #06080A00
+actionBarDefaultSelector: #00000000
+actionBarWhiteSelector: #00000000
 actionBarDefaultIcon: #F0F2F2
 actionBarActionModeDefault: #000000
 actionBarActionModeDefaultTop: #06080A00
@@ -161,10 +161,10 @@ actionBarDefaultSubmenuItemIcon: #F0F2F2
 actionBarDefaultSubmenuBackground: #2B2D2F
 actionBarTabActiveText: #D71921
 actionBarTabUnactiveText: #F0F2F2
-actionBarTabLine: #06080A00
-actionBarTabSelector: #06080A00
+actionBarTabLine: #00000000
+actionBarTabSelector: #00000000
 actionBarDefaultArchived: #000000
-actionBarDefaultArchivedSelector: #06080A00
+actionBarDefaultArchivedSelector: #00000000
 actionBarDefaultArchivedIcon: #F0F2F2
 actionBarDefaultArchivedTitle: #F0F2F2
 actionBarDefaultArchivedSearch: #F0F2F2
@@ -172,7 +172,7 @@ actionBarDefaultSearchArchivedPlaceholder: #F0F2F299
 actionBarBrowser: #F0F2F2
 chats_onlineCircle: #1DC661
 chats_unreadCounter: #D71921
-chats_unreadCounterMuted: #2B2D2F
+chats_unreadCounterMuted: #000000
 chats_unreadCounterText: #F0F2F2
 chats_name: #F0F2F2
 chats_nameArchived: #F0F2F299
@@ -205,15 +205,15 @@ chats_verifiedBackground: #D71921
 chats_verifiedCheck: #F0F2F2
 chats_muteIcon: #F0F2F299
 chats_mentionIcon: #F0F2F2
-chats_menuBackground: #1B1D1F
+chats_menuBackground: #000000
 chats_menuItemText: #F0F2F2
 chats_menuItemCheck: #F0F2F2
 chats_menuItemIcon: #F0F2F2
 chats_menuName: #F0F2F2
 chats_menuPhone: #F0F2F299
 chats_menuPhoneCats: #F0F2F299
-chats_menuTopBackgroundCats: #1B1D1F
-chats_menuTopBackground: #1B1D1F
+chats_menuTopBackgroundCats: #000000
+chats_menuTopBackground: #000000
 chats_actionIcon: #000000
 chats_actionBackground: #E7E9E9
 chats_actionPressedBackground: #E7E9E9
@@ -240,7 +240,7 @@ chat_attachLocationBackground: #4487EC
 chat_attachPollBackground: #FFC700
 chat_status: #F0F2F299
 chat_inDownCall: #1DC661
-chat_inBubble: #1B1D1F
+chat_inBubble: #1B1D1F99
 chat_inBubbleShadow: #00000000
 chat_outBubble: #F0F2F200
 chat_outBubbleSelected: #F0F2F200
