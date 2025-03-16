@@ -4,5 +4,8 @@
 
 
 A theme for telegram inspired by Nothing
+# To install the theme
 
-![image](https://github.com/user-attachments/assets/5b6c55b4-70da-4ff1-b7e1-1367a10b6dca)
+click on this link :3
+
+https://t.me/addtheme/ah10bjzVvLxTjlpB
